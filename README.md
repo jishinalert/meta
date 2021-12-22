@@ -19,3 +19,11 @@ A Japan earthquake monitoring app for Android that delivers EEWs, earthquake inf
 
 ## Downloads
 Coming soon
+
+## Credits
+| Feature | Information sources |
+| --- | --- |
+| Real-time intensity and PGA data | NIED |
+| Map data | Google Maps |
+| EEW and tsunami warning bulletins | Japan Meteorological Agency (JMA) |
+| Intensity and PGA data analysis and display algorithm | [JQuake guide article (多項式補間を使用して強震モニタ画像から数値データを決定する)](https://qiita.com/NoneType1/items/a4d2cf932e20b56ca444) |
