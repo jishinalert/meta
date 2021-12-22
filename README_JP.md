@@ -4,7 +4,7 @@
 
 > ⚠️ **警告:** このファイルは、機械翻訳を使用しています。もし、間違いを見つけたり、翻訳を改善したい場合は、プルリクエストをお願いします。
 
-[英語版を読む](https://github.com/jishinmonitor/meta/blob/main/README.md)
+[英語版を読む (Read English version)](https://github.com/jishinmonitor/meta/blob/main/README.md)
 
 # [近日発売] 地震監視
 **地震・津波警報 Android版**
