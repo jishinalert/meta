@@ -2,6 +2,8 @@
 <img src="https://raw.githubusercontent.com/jishinmonitor/meta/main/App-Github-Banner.png" alt="Jishin Monitor">
 </div>
 
+[Read Japanese version (日本語版を読む)](https://github.com/jishinmonitor/meta/blob/main/README_JP.md)
+
 # [COMING SOON] Jishin Monitor (地震監視)
 **Earthquake and Tsunami Warnings for Android - 地震・津波警報 Android版**
 A Japan earthquake monitoring app for Android that delivers EEWs, earthquake information, tsunami warnings and pulls information from official government sources such as JMA and NIED.
