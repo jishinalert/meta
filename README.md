@@ -4,7 +4,7 @@
 
 [Read Japanese version (日本語版を読む)](https://github.com/jishinmonitor/meta/blob/main/README_JP.md)
 
-# [COMING SOON] Tremotux (地震監視)
+# [COMING SOON] Jishin Alert (地震監視)
 **Earthquake and Tsunami Warnings for Android - 地震・津波警報 Android版**
 A Japan earthquake monitoring app for Android that delivers EEWs, earthquake information, tsunami warnings and pulls information from official government sources such as JMA and NIED.
 
