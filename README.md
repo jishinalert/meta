@@ -20,6 +20,7 @@ A Japan earthquake monitoring app for Android that delivers EEWs, earthquake inf
 | Observation points database Romaji translation | January 17, 2022 | TBD |
 | Backend app server | TBD | TBD |
 | NTP synchronization | TBD | TBD |
+| Earthquake Information Report | TBD | TBD |
 | Strong-motion monitor map | TBD | TBD |
 | EEW notifications | TBD | TBD |
 | Tsunami warning display | TBD | TBD |
