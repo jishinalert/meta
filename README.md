@@ -18,7 +18,7 @@ A Japan earthquake monitoring app for Android that delivers EEWs, earthquake inf
 | Feature | Beginning Date | Completion Date |
 |---------|--------------|----------------|
 | Observation points database Romaji translation | January 17, 2022 | Stalled |
-| Backend app server | TBD | TBD |
+| Backend app server | January 20, 2022 | TBD |
 | NTP synchronization | TBD | TBD |
 | Earthquake Information Report | TBD | TBD |
 | Strong-motion monitor map | TBD | TBD |
